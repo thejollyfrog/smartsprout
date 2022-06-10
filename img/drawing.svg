@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient865" x1="30.22" x2="147.3" y1="288.5" y2="405.5" gradientTransform="matrix(.8545 0 0 .8545 74.18 -246.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#800000" offset="0"/>
+   <stop stop-color="#800000" offset=".25"/>
+   <stop stop-color="#fff" offset=".25"/>
+   <stop stop-color="#fff" offset=".75"/>
+   <stop stop-color="#800000" offset=".75"/>
+   <stop stop-color="#800000" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient930" x1="30.22" x2="147.3" y1="288.5" y2="405.5" gradientTransform="matrix(.8545 0 0 .8545 -25.82 -246.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" offset=".25"/>
+   <stop stop-color="#800000" offset=".25"/>
+   <stop stop-color="#800000" offset=".75"/>
+   <stop stop-color="#fff" offset=".75"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect7" width="100" height="100" fill="url(#linearGradient930)" style="paint-order:markers stroke fill"/>
+ <use width="100%" height="100%" xlink:href="#rect7"/>
+ <rect x="100" width="100" height="100" fill="url(#linearGradient865)" style="paint-order:markers stroke fill"/>
+</svg>

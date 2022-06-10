@@ -1,0 +1,79 @@
+  <svg version="1.1" viewBox="0 0 840 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   
+   <style type="text/css"><![CDATA[
+			
+
+.cta-learn-button {
+  cursor: pointer;
+}
+.cta-learn-button:hover {
+  animation: scale-up-center .8s;
+  transform-origin: 350px 200px;
+}
+
+.cta-enter-button {
+  cursor: pointer;
+}
+.cta-enter-button:hover {
+  animation: scale-up-center .8s;
+  transform-origin: 490px 200px;
+}
+
+@-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+
+     
+     
+		]]></style>
+   
+  <linearGradient id="linearGradient1721">
+   <stop stop-color="#e9e9f2" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1502" x1="-3.27" x2="1275" y1="541.6" y2="69.7" gradientTransform="translate(0 -267.6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1721"/>
+  <clipPath id="clipPath1747">
+   <rect class="cta-bg" width="840" height="250" ry="0" fill="url(#linearGradient1502)"/>
+  </clipPath>
+  <clipPath id="clipPath1778">
+   <rect class="cta-bg" width="840" height="250" ry="0" fill="url(#linearGradient1502)"/>
+  </clipPath>
+ </defs>
+ <g>
+  <rect class="cta-bg" width="840" height="250" ry="0" fill="url(#linearGradient1502)"/>
+  <path class="cta-mic" transform="matrix(.9637 0 0 .9637 29.28 9.085)" d="m735.3 25.72c-6.096 0.01904-12.31 0.8095-16.65 2.203-9.557 3.065-22.64 11.56-26.85 19.85-4.162 8.188 0.4622 16.13 3.488 25.57 2.878 8.975 8.939 16.04 16.53 20.36l50.47 141.6c7.573 0.0997 14.75-1.043 21.6-3.195l5.381 26.59c0.4151-2.928 0.8936-5.669 1.164-7.873 0.6964-5.674-2.855-14.1-5.301-19.11 7.201-2.405 14.04-5.936 20.6-10.34l-43.18-144.1c3.59-7.886 4.37-17.08 1.516-25.98-3.303-10.3-3.611-19.14-12.81-23.15-3.88-1.689-9.861-2.441-15.96-2.422zm53.96 233c-1.182 8.342-1.836 18.23 4.41 21.8z" clip-path="url(#clipPath1778)" fill="#56539b" opacity=".1"/>
+  <path class="cta-note" d="m212.4-66.67-10.79 10.63c-30.74 30.28-65.51 49.61-92.56 61.62-13.53 6.008-25.09 10.19-33.33 13.04-4.119 1.429-7.374 2.513-9.836 3.416-1.231 0.4517-2.214 0.818-3.375 1.389-0.5803 0.2853-1.181 0.5387-2.275 1.424-0.547 0.4425-1.279 1.025-2.127 2.416-0.8477 1.391-1.765 4.197-1.014 7l33.96 126.7a32.88 32.88 0 0 0-14.93 0.4473 32.88 32.88 0 0 0-23.25 40.27 32.88 32.88 0 0 0 40.27 23.25 32.88 32.88 0 0 0 23.25-40.27 32.88 32.88 0 0 0-2.385-6.18l-37.87-141.4c1.732-0.5976 2.999-1.041 5.375-1.865 8.434-2.926 20.54-7.294 34.71-13.59 25.22-11.2 57.04-28.58 86.86-55.04l28.97 108.1a32.88 32.88 0 0 0-15.04 0.4258 32.88 32.88 0 0 0-23.25 40.27 32.88 32.88 0 0 0 40.27 23.25 32.88 32.88 0 0 0 23.25-40.27 32.88 32.88 0 0 0-2.164-5.764z" clip-path="url(#clipPath1747)" fill="#5d5b9f" opacity=".1"/>
+  <text class="cta-title" x="422.46573" y="90.366882" fill="#5d5b9f" font-family="sans-serif" font-size="32.16px" letter-spacing="0px" stroke-width="1.508" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="422.4657" y="90.366882" fill="#5d5b9f" stroke-width="1.508" text-align="center" text-anchor="middle">The UK's <tspan font-family="sans-serif" font-size="32.16px" font-weight="bold" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Biggest</tspan> Search for Unsigned Singers!</tspan></text>
+ </g>
+ <a target="_blank" xlink:href="https://smartsprout.co.uk">
+  <g class="cta-enter-button">
+   <rect class="cta-enter-rect" x="432.5" y="163.9" width="168.5" height="49.04" fill="#ce000a"/>
+   <text class="cta-enter-text" x="516.03076" y="197.01822" fill="#ffffff" font-family="sans-serif" font-size="24px" letter-spacing="0px" stroke-width="1.211" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="516.03076" y="197.01822" stroke-width="1.211">Enter Now</tspan></text>
+  </g>
+ </a>
+ <a target="_blank" xlink:href="https://smartsprout.co.uk">
+  <g class="cta-learn-button">
+   <rect class="cta-learn-rect" x="239.1" y="163.9" width="168.5" height="49.04" fill="#6b69a7"/>
+   <text class="cta-learn-text" x="322.76221" y="197.01822" fill="#ffffff" font-family="sans-serif" font-size="24px" letter-spacing="0px" stroke-width="1.211" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="322.76221" y="197.01822" stroke-width="1.211">Learn More</tspan></text>
+  </g>
+ </a>
+ <text class="cta-tagline" x="420.45312" y="136.66693" fill="#5d5b9f" font-family="sans-serif" font-size="21.33px" letter-spacing="0px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="420.45312" y="136.66693">Sign up today to secure your audition.</tspan></text>
+</svg>

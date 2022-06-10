@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath1414">
+   <rect y="217.6" width="600" height="300" fill="#fff" style="paint-order:normal"/>
+  </clipPath>
+  <clipPath id="clipPath1418">
+   <rect y="217.6" width="600" height="300" fill="#fff" style="paint-order:normal"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0 -217.6)">
+  <g transform="translate(-300)">
+   <path d="m532 158.6c-74.01 0-134 36.71-134 82 0.0267 38.73 73.65 38.21 116.2 64.19s44.37 77.78 95.77 77.81c59.65 0 108-34.47 108-77-0.0552-26.89-19.78-51.81-52.04-65.75-0.6689-44.99-60.44-81.24-134-81.25z" clip-path="url(#clipPath1418)" fill="#7b68ee" style="paint-order:normal"/>
+   <path d="m590 359.6c74.01 0 134-36.71 134-82-0.027-38.73-73.65-38.21-116.2-64.19s-44.37-77.78-95.77-77.81c-59.65 0-108 34.47-108 77 0.0552 26.89 38.42 20.91 56.04 33.75 46.45 33.83 56.44 113.2 130 113.3z" clip-path="url(#clipPath1414)" fill="#f08080" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="g8138" transform="matrix(.1273 0 0 .126 8 -11.4)" stroke="#fff">
+  <path d="m101 299.3c0 7.939-6.436 14.38-14.38 14.38-7.939 0-14.38-6.436-14.38-14.38-1e-6 -7.939 2.162-15.15 14.38-25.64 0 0 14.38 17.7 14.38 25.64z" fill="#8393FF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.878" style="paint-order:normal"/>
+  <path d="m74.21 298.5c0.7864 4.434 1.725 9.967 10.49 13.4 3.827-0.1346 5.884-1.744 6.605-4.468-8.272-1.048-12.66-5.013-17.09-8.936z" fill="#fff" stroke-width=".378"/>
+ </g>
+ <use transform="translate(2.091,76.57)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(85.45,70.82)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(170.4,38.41)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(147.4,-10.45)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(233.9,81.79)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(69.77,157.1)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(165.4,167.2)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(59.84,241.5)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(268.9,168)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(267.1,261.3)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(-3.92,186.1)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(138,111.6)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(235.2,7.317)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="translate(148.7,234.1)" width="100%" height="100%" xlink:href="#g8138"/>
+</svg>

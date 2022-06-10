@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="g8138" stroke="#fff">
+  <path d="m20.26 27.13c-0.5002 0.8663-1.615 1.159-2.491 0.6538-0.8752-0.5053-1.18-1.618-0.6794-2.484 0.5002-0.8663 1.193-1.516 3.201-1.883 0 0 0.4702 2.847-0.03 3.713v0" fill="#8393FF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".2913" style="paint-order:normal"/>
+  <path d="m17.35 25.34c-0.1926 0.5339-0.4377 1.197 0.3123 2.13 0.4304 0.2289 0.7586 0.1842 1.01-0.06714-0.8459-0.6409-1.08-1.353-1.321-2.063l-8.032e-4 1.182e-4" fill="#fff" stroke-width=".05863"/>
+ </g>
+ <use transform="matrix(.866 .5 -.5 .866 17.44 70.49)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 100.8 64.74)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 185.8 32.33)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 162.8 -16.53)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 249.3 75.71)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 85.12 151)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 180.8 161.1)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 75.19 235.4)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 284.3 161.9)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 282.5 255.2)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 11.43 180)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 153.4 105.5)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 250.6 1.234)" width="100%" height="100%" xlink:href="#g8138"/>
+ <use transform="matrix(.866 .5 -.5 .866 164.1 228)" width="100%" height="100%" xlink:href="#g8138"/>
+</svg>

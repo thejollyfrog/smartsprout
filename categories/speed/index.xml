@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speed on SmartSprout Content Marketing</title>
+    <link>https://smartsprout.netlify.app/categories/speed/</link>
+    <description>Recent content in speed on SmartSprout Content Marketing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://smartsprout.netlify.app/categories/speed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to decrease loading time</title>
+      <link>https://smartsprout.netlify.app/blog/how-to-decrease-loading-time/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartsprout.netlify.app/blog/how-to-decrease-loading-time/</guid>
+      <description>Page loading speed is not just important for improving the user-experience. In fact, page loading time affects visitor retention, sales conversions, and even search rankings. This is how we recommend speeding up your website:
+Resize and optimise images If your website is slow, your image file size could be to blame. Before using an image, at the very least it should be resized to match the maximum display dimensions and compressed using image compression tools.</description>
+    </item>
+    
+    <item>
+      <title>How to optimise images for your website</title>
+      <link>https://smartsprout.netlify.app/blog/how-to-prepare-images-for-the-web/</link>
+      <pubDate>Tue, 05 Feb 2019 02:10:16 +0000</pubDate>
+      
+      <guid>https://smartsprout.netlify.app/blog/how-to-prepare-images-for-the-web/</guid>
+      <description>Have you heard about image optimisation, but you don&amp;rsquo;t know how to do it or what image optimisation does for your website? If so, you are in for a treat! Below, I will take you through everything you need to know to optimise the images on your website, boosting performance instantly!
+What is image optimisation? Image optimisation is the process of reducing the file size of your images with minimal visual quality loss.</description>
+    </item>
+    
+  </channel>
+</rss>

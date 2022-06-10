@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient865" x1="0%" x2="100%" y1="0%" y2="100%">
+   <stop stop-color="#800000" offset="0"/>
+   <stop stop-color="#800000" offset=".25"/>
+   <stop stop-color="#fff" offset=".25"/>
+   <stop stop-color="#fff" offset=".75"/>
+   <stop stop-color="#800000" offset=".75"/>
+   <stop stop-color="#800000" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient930" x1="0%" x2="100%" y1="0%" y2="100%">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" offset=".25"/>
+   <stop stop-color="#800000" offset=".25"/>
+   <stop stop-color="#800000" offset=".75"/>
+   <stop stop-color="#fff" offset=".75"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect7" width="100" height="100" fill="url(#linearGradient930)" />
+
+ <rect x="100" width="100" height="100" fill="url(#linearGradient865)" />
+</svg>

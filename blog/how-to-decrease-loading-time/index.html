@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>How to decrease loading time</title>
+  
+  <link rel="stylesheet" href="https://smartsprout.netlify.app/sass/main.min.css">
+
+</head>
+
+<body>
+<section class="brand-nav">
+<a href="/" class="site-logo" style="filter:brightness(9) grayscale(1)"><img src="/img/smart-sprout-logo-4.png" alt=""/></a>
+<nav class="top-nav">
+  
+        <a href="/">Home</a>
+   
+        <a href="/about/">About</a>
+   
+        <a href="/team/">Team</a>
+   
+        <a href="/examples/">Examples</a>
+   
+        <a href="/blog/">Blog</a>
+   
+        <a href="/contact/">Contact</a>
+   
+</nav>
+</section>
+<nav class="mobile-nav">
+<details class="details">
+  <summary class="summary"><span class="open-me">☰</span><span class="close-me">⛌</span></summary>
+  <div class="link-grid">
+   
+        <a href="/">Home</a>
+   
+        <a href="/about/">About</a>
+   
+        <a href="/team/">Team</a>
+   
+        <a href="/examples/">Examples</a>
+   
+        <a href="/blog/">Blog</a>
+   
+        <a href="/contact/">Contact</a>
+   
+  </div>
+  <div class="home-slider-wrapper">
+  <div class="home-slider">
+  
+  </div>
+</div>
+
+</details>
+</nav>
+
+
+
+  
+
+<picture>
+<source srcset="https://smartsprout.netlify.app/blog/how-to-decrease-loading-time/main.avif" type="image/avif">
+<source srcset="https://smartsprout.netlify.app/blog/how-to-decrease-loading-time/main.webp" type="image/webp">
+<img src="https://smartsprout.netlify.app/blog/how-to-decrease-loading-time/main.jpg">
+</picture>
+  <div class="blog-meta">
+    <h1>How to decrease loading time</h1>
+  </div>
+</figure>
+<section class="content-block">
+<p>Written on May 3, 2022 </p>
+  <p>Page loading speed is not just important for improving the user-experience. In fact, page loading time affects visitor retention, sales conversions, and even search rankings. This is how we recommend speeding up your website:</p>
+<h2 id="resize-and-optimise-images">Resize and optimise images</h2>
+<p>If your website is slow, your image file size could be to blame. Before using an image, at the very least it should be resized to match the maximum display dimensions and compressed using image compression tools.
+To learn more about preparing images for the web, see: How to optimise images for the web</p>
+<h2 id="reduce-http-requests">Reduce HTTP requests</h2>
+<p>Every resource that your page has to contact upon loading adds an HTTP request. Each of these requests add to the time it takes to load the page. Depending on the size of these files the added time can be significant.</p>
+<p>To see the requests made when you load the page:</p>
+<ol>
+<li>Visit the page in either Firefox/Chrome</li>
+<li>Press F12 (to load developer tools)</li>
+<li>Navigate to the network tab</li>
+<li>Check disable cache and hit F5 (to reload the page)</li>
+</ol>
+<p>You will now see each resource as they are called, and in the bottom left-hand corner you will see the total number of HTTP requests.</p>
+<p>With the help of your developer, aim to minimise the resources called so that you are making less than 30 requests on each page load.</p>
+<p>This can be done by consolidating files such as (CSS) style sheets, reducing the number of web fonts, removing unnecessary plugins, creating CSS image sprites (for your icons), etc.</p>
+<p>Aim to concentrate specifically on those with the highest loading time.</p>
+<h2 id="eliminate-bad-requests">Eliminate bad requests</h2>
+<p>Bad requests are HTTP requests which either won&rsquo;t load at all (404) or those where the server response is very slow. These files can significantly slow the load of your site and should be fixed or eliminated.</p>
+<p>Sometimes the origin of these files is easy to identify and simply removing or replacing a plugin will do the trick.</p>
+<p>To locate bad requests, again, navigate to the network tab in developer tools and refresh the page. Normally non-loading requests will be highlighted red.</p>
+<p>If you don&rsquo;t recognise the origin of the request, speak to your developer and discuss with them how to remove or replace it.</p>
+<h2 id="minify-your-code">Minify your code</h2>
+<p>When code is written it is created in human readable form. However this means, if it has not been compressed, there is a lot of unnecessary spaces and line breaks, adding to the file size and slowing your page loading time.</p>
+<p>Speak to your developer to check if the code has been minified and if not ask if they will do this for you.</p>
+<h2 id="use-svgs-for-graphics-and-animations">Use SVGs for graphics and animations</h2>
+<h3 id="svg-for-static-images">SVG for static images</h3>
+<p>Images definitely make your website more appealing, but just a few images can have a signifiant impact on page loading times. In some circumstances you may find that you can get the effect you are looking for with SVG (Scalable Vector Graphics).</p>
+<p>Rather than pixels, SVGs use co-ordinates and can scale to any size without increasing the size of the file. SVG is also written in XML and therefore can be embedded directly in the HTML of the page, thus eliminating the need for a request.</p>
+<p>While you aren&rsquo;t likely to save much space replacing tiny icons (PNGs are very performant at these sizes), larger graphics such as logos, banners and simple background graphics created in SVG could reduce your page loading time significantly, when compared to JPEGs, PNGs and GIFs.</p>
+<h3 id="svg-for-animations">SVG for animations</h3>
+<p>GIFs are back in fashion, and for good reason — they can easily spice up an otherwise mundane looking post. But, they come at a steep cost. GIFs are created in frames and, unlike video, all of the frames must load before you can see the animation. A 20 frame animated GIF may only last a few seconds, but is roughly the equivalent to 20 static images of the same dimensions.</p>
+<p>That is where SVG animation comes in. SVG gives you the freedom to add some pizzazz to the page without the weight of a frame by frame animation. Instead, SVG can be animated by both JavaScript and CSS and, unlike GIFs, the graphics will be crystal clear at any size.</p>
+<h2 id="migrate-to-a-vps-or-dedicated-server">Migrate to a VPS or dedicated server</h2>
+<p>Most websites use what is called &ldquo;shared hosting&rdquo;. This means the website is sharing its server with other sites. while this may be more cost-effective than using a dedicated server, there are notable performance disadvantages.</p>
+<p>Shared hosting usually means more down-time (server is unresponsive), slower page loading times and more unpredictability.
+While dedicated servers aren&rsquo;t cheap, a good compromise is VPS (Virtual Private Server) hosting. VPS hosting still uses shared servers, but as your part of the server is partitioned, you don&rsquo;t suffer when other websites on the same server are under heavy load or are attacked — everything is kept separate.</p>
+<p>A great place to get VPS hosting is Digital Ocean as not only is the cost comparative to shared hosting, but the setup is really simple as DO have one-click installation for CMSs such as WordPress, Drupal and Ghost.
+To conclude</p>
+<p>Aim for your pages to load in under 2 seconds and test your site on various devices in different conditions.
+With the help of your developer, you can even reduce page loading time on mobile devices by changing the content that is sent to different screen sizes.</p>
+<p>So, if you have a slow website, don&rsquo;t despair. In most cases, this can be resolved quickly and easily at low cost. Every little helps; and every time saving, no matter how small it seems, will likely reflect on your site conversions and return user stats.</p>
+
+</section>
+
+<footer class="section-footer">
+	<div class="footer-wrap wrap flex">
+		<div class="footer-logo flex">
+			<a class="is-logo" href="https://smartsprout.co.uk/"><img src="/img/smart-sprout-logo-4.png" alt="Smart Sprout"></a>
+		</div>
+		<div class="footer-nav">
+			<ul class="nav-list">
+	<li class="nav-list-item">
+		<a href="https://smartsprout.co.uk/about/" class="nav-link">About</a>
+		<span class="nav-dot"></span>
+    </li>
+	<li class="nav-list-item">
+		<a href="https://smartsprout.co.uk/team/" class="nav-link">Team</a>
+		<span class="nav-dot"></span>
+    </li>
+	<li class="nav-list-item">
+		<a href="https://smartsprout.co.uk/examples/" class="nav-link">Examples</a>
+		<span class="nav-dot"></span>
+    </li>
+	<li class="nav-list-item">
+		<a href="https://smartsprout.co.uk/blog" class="nav-link">Blog</a>
+		<span class="nav-dot"></span>
+    </li>
+	<li class="nav-list-item">
+		<a href="https://smartsprout.co.uk/contact/" class="nav-link">Contact</a>
+		<span class="nav-dot"></span>
+    </li>
+	</ul>
+
+  <ul class="nav-list">
+
+    <li class="nav-list-item">
+		<a href="https://smartsprout.co.uk/privacy/" class="nav-link">Privacy</a>
+		<span class="nav-dot"></span>
+    </li>
+  </ul>
+
+	<div class="footer-copyright">
+		<span>© 2022 <a href="https://smartsprout.co.uk/">Smart Sprout</a>.</span> All Right Reserved.
+	</div>
+</footer>
+
+</body>
+</html>
