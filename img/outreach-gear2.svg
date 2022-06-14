@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+
+ <g class="outreach-gear">
+  <path class="avatar-curve" d="m250 171.4c-171.2 125-161 46.07-250 78.61h250z" fill="#fff"/>
+  <g transform="matrix(.3628 0 0 .3628 151.6 156.1)">
+   <path d="m143.3 111.3 114.4-9.436v75.49l-49.03-28.31-32.69 18.87v-37.75z" fill="#8393FF"/>
+   <path d="m176 130.2v37.75l32.69-18.87 49.03-47.18z" fill="#161B3D"/>
+   <path d="m176 168 81.72-66.05" fill="none" stroke="#fff" stroke-width=".5925"/>
+   <path d="m176 130.2 81.72-28.31-49.03 47.18" fill="none" stroke="#fff" stroke-width=".5925"/>
+   <path d="m43.17 120.3 90.66-7.477v59.82l-38.85-22.43-25.9 14.95v-29.91z" fill="#8393FF"/>
+   <path d="m69.08 135.3v29.91l25.9-14.95 38.85-37.39z" fill="#161B3D"/>
+   <path d="m69.08 165.2 64.76-52.34" fill="none" stroke="#fff" stroke-width=".4695"/>
+   <path d="m69.08 135.3 64.76-22.43-38.85 37.39" fill="none" stroke="#fff" stroke-width=".4695"/>
+   <path d="m167.1 194.5 90.66-7.477v59.82l-38.85-22.43-25.9 14.95v-29.91z" fill="#8393FF"/>
+   <path d="m193 209.5v29.91l25.9-14.95 38.85-37.39z" fill="#161B3D"/>
+   <path d="m193 239.4 64.76-52.34" fill="none" stroke="#fff" stroke-width=".4695"/>
+   <path d="m193 209.5 64.76-22.43-38.85 37.39" fill="none" stroke="#fff" stroke-width=".4695"/>
+  </g>
+ </g>
+
+</svg>
