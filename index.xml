@@ -122,20 +122,20 @@ Another thing that makes Smart Sprout different to other agencies is our flexibi
     </item>
     
     <item>
-      <title>Contact | Smart Sprout</title>
-      <link>https://smartsprout.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://smartsprout.netlify.app/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Examples | Smart Sprout</title>
       <link>https://smartsprout.netlify.app/examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://smartsprout.netlify.app/examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get in touch | Smart Sprout</title>
+      <link>https://smartsprout.netlify.app/get-in-touch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartsprout.netlify.app/get-in-touch/</guid>
       <description></description>
     </item>
     
